@@ -1,8 +1,8 @@
-# desafio-phishing
-Cibersecurity: Desafio de phishing
+# Cibersecurity: Desafio de phishing
+
 # Phishing para captura de senhas do Facebook
 
-### Ferramentas usadas
+### Ferramentas utilizadas
 
 - Kali Linux
 - setoolkit
