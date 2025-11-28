@@ -1,6 +1,4 @@
-# Cibersecurity: Desafio de phishing
-
-# Phishing para captura de senhas do Facebook
+# Cibersecurity: Desafio de phishing para captura de senhas do Facebook
 
 ### Ferramentas utilizadas
 
