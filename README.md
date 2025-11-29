@@ -19,4 +19,5 @@
 ### Resutados
 
 -Nota: Nos navegadores atuais não captura nenhuma senha, fica em looping.
-![Alt text](./VirtualBox_KaliLinux_29_11_2025_17_01_50.png" "Optional title")
+<img width="800" height="490" alt="VirtualBox_KaliLinux_29_11_2025_17_01_50" src="https://github.com/user-attachments/assets/ee129bef-9fac-44b2-a0c0-f051ae4e8cf6" />
+
