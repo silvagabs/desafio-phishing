@@ -17,3 +17,6 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
+
+-Nota: Nos navegadores atuais não captura nenhuma senha, fica em looping.
+![Alt text](./VirtualBox_KaliLinux_29_11_2025_17_01_50.png" "Optional title")
